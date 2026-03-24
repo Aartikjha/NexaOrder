@@ -51,9 +51,7 @@ public class AuthController {
 //        | `@PostMapping("/login")` | POST `/auth/login` → login and get token |
 //        | `@RequestBody` | Reads JSON from request body |
 //        | `ResponseEntity.ok()` | Returns 200 OK response |
-//
-//        ---
-//
+
 //        ## Your APIs Will Be
 //```
 //POST http://localhost:8081/auth/register
